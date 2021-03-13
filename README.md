@@ -1,2 +1,2 @@
-# AnyaKo02.github.io
+# Коломиец Анна
 My-first-public-site
